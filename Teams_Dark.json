@@ -1,0 +1,32 @@
+{
+    "name": "Teams Dark,
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#43456D",
+        "accent": "#43456D",
+        "primary-color": "#43456D",
+        "warning-color": "#faa81ad9",
+        "alert": "#faa81ad9",
+
+        "sidebar-color": "#373838",
+        "roomlist-background-color": "#2C2D2D",
+        "roomlist-text-color": "#B8B7B6",
+        "roomlist-text-secondary-color": "#E9EAEB",
+        "roomlist-highlights-color": "#8082A5",
+        "roomlist-separator-color": "#40444b",
+
+        "timeline-background-color": "#212022",
+        "timeline-text-color": "#E3E3E5",
+        "secondary-content": "#E3E3E5",
+        "tertiary-content": "#E3E3E5",
+        "timeline-text-secondary-color": "#E3E3E5",
+        "timeline-highlights-color": "#04040512",
+
+        "reaction-row-button-selected-bg-color": "#43456D",
+        "menu-selected-color": "#43456D",
+        "focus-bg-color": "#43456D",
+        "room-highlight-color": "#43456D",
+        "other-user-pill-bg-color": "#4752c4",
+        "togglesw-off-color": "#72767d"
+    }
+}
